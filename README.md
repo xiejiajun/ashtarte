@@ -3,6 +3,8 @@
 Welcome to Ashtarte !
 
 弹性分布式并行计算系统研究和探索
+- 还可以参考Spark分布式计算设计原理（作业分发流程)
+    - [优质文章](https://gitee.com/jiajun02/e-book/blob/master/%E5%A4%A7%E6%95%B0%E6%8D%AE/Spark/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/%E6%B6%89%E5%8F%8A%E5%88%B0%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97%E5%8E%9F%E7%90%86/Spark%E5%88%86%E5%B8%83%E5%BC%8F%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E6%B5%81%E7%A8%8B%E6%BA%90%E7%A0%81-%E6%8E%A8%E8%8D%90%E4%BC%98%E5%85%88%E9%98%85%E8%AF%BB.md)
 
 ### Example
 * WorldCount:
